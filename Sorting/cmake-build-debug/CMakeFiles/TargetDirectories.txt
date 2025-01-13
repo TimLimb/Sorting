@@ -1,0 +1,3 @@
+C:/Users/Tim/CLionProjects/Sorting/cmake-build-debug/CMakeFiles/Homework5.dir
+C:/Users/Tim/CLionProjects/Sorting/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Tim/CLionProjects/Sorting/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+Test message: File write is working!
